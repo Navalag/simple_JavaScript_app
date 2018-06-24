@@ -20,7 +20,7 @@ This simple examples can help with more complicated JavaScript tasks.
 First clone git repository (type in console):
 ```
 
-git clone https://github.com/Navalag/simple_js_application.git
+git clone https://github.com/Navalag/simple_JavaScript_app.git
 
 ```
 
