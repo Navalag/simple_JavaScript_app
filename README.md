@@ -6,7 +6,7 @@ Also you can see how to filter DOM elements.
 
 This simple examples can help with more complicated JavaScript tasks.
 
-## Used technics:
+## Used technologies:
 
 - DOM element selection
 - DOM traversal
