@@ -6,7 +6,7 @@ Also you can see how to filter DOM elements.
 
 This simple examples can help with more complicated JavaScript tasks.
 
-<img src="https://thumbs.gfycat.com/FlashyDependableIrukandjijellyfish-size_restricted.gif" alt="GIF project presentation" title="RSVP app presentation" width="700px">
+<img src="http://g.recordit.co/ZaAE6S0Z57.gif" alt="GIF project presentation" title="RSVP app presentation" width="700px">
 
 ## Used technologies:
 
@@ -35,6 +35,6 @@ open index.html
 
 ```
 
-Now you can play with code and see how it works :smiley: :kissing_heart:
+Now you can play with code and see how it works :ok_hand:
 
-Enjoy :dizzy:
+Enjoy :heart_eyes:
